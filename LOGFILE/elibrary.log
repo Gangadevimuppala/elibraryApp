@@ -1,0 +1,1106 @@
+2022-10-21 01:03:17,685 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h26m4s762ms).
+2022-10-21 02:26:50,802 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m33s118ms).
+2022-10-21 03:34:57,367 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m6s559ms).
+2022-10-21 04:37:15,661 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m18s299ms).
+2022-10-21 06:03:00,516 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h25m44s855ms).
+2022-10-21 07:23:36,544 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m36s27ms).
+2022-10-21 08:32:52,249 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m15s704ms).
+2022-10-21 09:14:39,750 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m47s503ms).
+2022-10-21 10:28:52,890 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m13s140ms).
+2022-10-21 11:07:21,864 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m28s973ms).
+2022-10-21 11:31:26,910 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m4s877ms).
+2022-10-21 12:43:50,466 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m23s501ms).
+2022-10-21 13:03:42,024 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m51s559ms).
+2022-10-21 13:17:41,986 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 13:17:42,005 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 13:37:43,864 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 40839 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 13:37:43,867 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 13:37:46,203 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 13:37:46,215 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:37:46,216 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 13:37:46,216 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 13:37:46,339 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 13:37:46,339 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2335 ms
+2022-10-21 13:37:46,701 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 13:37:46,946 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 13:37:46,969 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 13:37:47,547 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 13:37:47,934 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 13:37:48,017 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:37:48,097 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 13:37:48,162 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 5.002 seconds (JVM running for 5.879)
+2022-10-21 13:38:17,183 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 13:38:17,187 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 13:38:17,192 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2022-10-21 13:38:17,260 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 13:38:37,847 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... adminLogin
+2022-10-21 13:38:41,565 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-1] Enteriing... viewLibrarian
+2022-10-21 13:38:59,358 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-6] Enteriing... login
+2022-10-21 13:39:04,380 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-9] Enteriing... login
+2022-10-21 13:39:12,065 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-4] Enteriing... login
+2022-10-21 13:39:14,203 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-10] Enteriing... adminLoginPage
+2022-10-21 13:39:15,817 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-5] Enteriing... login
+2022-10-21 13:39:16,876 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-7] Enteriing... librarianLoginPage
+2022-10-21 13:39:18,013 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-8] Enteriing... login
+2022-10-21 13:39:29,885 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 13:39:36,456 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Enteriing... IssueBook
+2022-10-21 13:39:40,058 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Enteriing... addBookPage
+2022-10-21 13:39:42,081 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Enteriing... addBookPage
+2022-10-21 13:39:43,266 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... addBookPage
+2022-10-21 13:39:45,061 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Enteriing... IssueBook
+2022-10-21 13:39:46,031 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Enteriing... addBookPage
+2022-10-21 13:39:47,447 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Enteriing... addBookPage
+2022-10-21 13:40:15,892 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-4] Enteriing... addBookPage
+2022-10-21 13:40:20,236 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... addBookPage
+2022-10-21 13:40:22,646 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... IssueBook
+2022-10-21 13:40:28,531 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-5] Enteriing... addBookPage
+2022-10-21 13:40:29,530 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Enteriing... IssueBook
+2022-10-21 13:40:55,025 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-6] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-10-21 13:41:54,971 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 13:41:54,988 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 13:45:21,452 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 40859 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 13:45:21,461 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 13:45:24,079 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 13:45:24,096 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:45:24,097 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 13:45:24,097 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 13:45:24,213 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 13:45:24,213 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2654 ms
+2022-10-21 13:45:24,555 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 13:45:24,916 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 13:45:24,974 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 13:45:25,536 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 13:45:25,899 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 13:45:25,959 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:45:25,995 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 13:45:26,018 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 5.602 seconds (JVM running for 6.949)
+2022-10-21 13:45:40,107 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 13:45:40,110 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 13:45:40,118 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2022-10-21 13:45:40,181 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 13:45:42,455 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 13:45:43,817 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-3] Enteriing... login
+2022-10-21 13:45:44,764 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-4] Enteriing... adminLoginPage
+2022-10-21 13:45:45,853 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-5] Enteriing... librarianLoginPage
+2022-10-21 13:45:46,899 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-6] Enteriing... adminLoginPage
+2022-10-21 13:45:53,768 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-7] Enteriing... adminLogin
+2022-10-21 13:45:56,083 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-1] Enteriing... viewLibrarian
+2022-10-21 13:46:04,520 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 13:46:06,334 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-3] Enteriing... viewLibrarian
+2022-10-21 13:46:07,599 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-4] Enteriing... login
+2022-10-21 13:46:09,383 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-5] Enteriing... login
+2022-10-21 13:46:13,892 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-6] Enteriing... login
+2022-10-21 13:46:15,371 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-7] Enteriing... adminLoginPage
+2022-10-21 13:46:16,783 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-8] Enteriing... librarianLoginPage
+2022-10-21 13:46:17,933 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-9] Enteriing... login
+2022-10-21 13:46:28,030 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-10] Enteriing... librarianLoginPage
+2022-10-21 13:46:34,913 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 13:46:47,801 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... addBookPage
+2022-10-21 13:46:51,634 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... IssueBook
+2022-10-21 13:47:11,206 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... issueBook
+2022-10-21 13:47:11,263 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-8] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'] with root cause
+org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'
+	at org.springframework.jdbc.core.namedparam.NamedParameterUtils.buildValueArray(NamedParameterUtils.java:361)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:425)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:399)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:169)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:177)
+	at com.library.elibrary.dao.BookDao.checkIssue(BookDao.java:81)
+	at com.library.elibrary.dao.BookDao.issueBook(BookDao.java:93)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$e66465ba.issueBook(<generated>)
+	at com.library.elibrary.controllers.BookController.issueBook(BookController.java:94)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 13:51:31,841 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 40878 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 13:51:31,844 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 13:51:34,131 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 13:51:34,142 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:51:34,143 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 13:51:34,144 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 13:51:34,307 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 13:51:34,309 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2335 ms
+2022-10-21 13:51:34,580 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 13:51:34,806 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 13:51:34,820 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 13:51:35,317 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 13:51:35,701 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 13:51:35,761 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 13:51:35,784 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 13:51:35,802 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.649 seconds (JVM running for 5.294)
+2022-10-21 13:58:38,781 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 13:58:38,798 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 14:03:30,252 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41011 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 14:03:30,311 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 14:03:32,841 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 14:03:32,854 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:03:32,855 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 14:03:32,855 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 14:03:32,981 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 14:03:32,981 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2557 ms
+2022-10-21 14:03:33,281 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 14:03:33,562 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 14:03:33,587 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 14:03:34,141 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 14:03:34,818 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 14:03:34,882 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:03:34,924 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 14:03:34,950 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 5.653 seconds (JVM running for 6.82)
+2022-10-21 14:04:31,619 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 14:04:31,623 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 14:04:31,626 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2022-10-21 14:04:31,679 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 14:04:43,010 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 14:04:52,807 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... addBookPage
+2022-10-21 14:04:56,354 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... IssueBook
+2022-10-21 14:04:59,848 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... addBookPage
+2022-10-21 14:05:01,321 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Enteriing... IssueBook
+2022-10-21 14:05:26,630 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Enteriing... issueBook
+2022-10-21 14:07:19,236 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-10] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'] with root cause
+org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'
+	at org.springframework.jdbc.core.namedparam.NamedParameterUtils.buildValueArray(NamedParameterUtils.java:361)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:425)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:399)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:169)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:177)
+	at com.library.elibrary.dao.BookDao.checkIssue(BookDao.java:81)
+	at com.library.elibrary.dao.BookDao.issueBook(BookDao.java:93)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$295e6429.issueBook(<generated>)
+	at com.library.elibrary.controllers.BookController.issueBook(BookController.java:94)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 14:10:11,698 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Enteriing... issueBook
+2022-10-21 14:11:58,939 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41028 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 14:11:58,942 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 14:12:01,202 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 14:12:01,211 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:12:01,212 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 14:12:01,212 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 14:12:01,380 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 14:12:01,382 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2306 ms
+2022-10-21 14:12:01,679 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 14:12:01,905 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 14:12:01,925 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 14:12:02,414 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 14:12:02,794 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 14:12:02,846 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:12:02,872 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 14:12:02,891 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.663 seconds (JVM running for 5.374)
+2022-10-21 14:12:40,788 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 14:12:40,789 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 14:12:40,794 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 5 ms
+2022-10-21 14:12:40,851 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 14:12:45,883 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... librarianLoginPage
+2022-10-21 14:12:49,595 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-3] Enteriing... login
+2022-10-21 14:13:02,320 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... IssueBook
+2022-10-21 14:13:18,347 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... issueBook
+2022-10-21 14:13:31,042 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Enteriing... IssueBook
+2022-10-21 14:13:35,326 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Enteriing... addBookPage
+2022-10-21 14:13:39,893 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-5] Enteriing... IssueBook
+2022-10-21 14:16:30,736 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... addBookPage
+2022-10-21 14:20:37,241 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 14:20:37,253 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 14:20:44,274 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41062 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 14:20:44,284 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 14:20:46,978 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 14:20:46,989 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:20:46,990 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 14:20:46,991 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 14:20:47,111 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 14:20:47,111 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2705 ms
+2022-10-21 14:21:04,407 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 14:21:04,739 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 14:21:04,759 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 14:21:05,639 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 14:21:06,016 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 14:21:06,079 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:21:06,111 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 14:21:06,133 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 22.809 seconds (JVM running for 23.938)
+2022-10-21 14:21:12,919 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 14:21:12,920 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 14:21:12,936 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 16 ms
+2022-10-21 14:21:13,010 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 14:21:15,790 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 14:21:20,707 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... IssueBook
+2022-10-21 14:21:37,525 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... issueBook
+2022-10-21 14:22:21,419 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'] with root cause
+org.springframework.dao.InvalidDataAccessApiUsageException: No value supplied for the SQL parameter 'callno': No value registered for key 'callno'
+	at org.springframework.jdbc.core.namedparam.NamedParameterUtils.buildValueArray(NamedParameterUtils.java:361)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:425)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.getPreparedStatementCreator(NamedParameterJdbcTemplate.java:399)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:169)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.query(NamedParameterJdbcTemplate.java:177)
+	at com.library.elibrary.dao.BookDao.getIssued(BookDao.java:67)
+	at com.library.elibrary.dao.BookDao.issueBook(BookDao.java:111)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$7d83c91f.issueBook(<generated>)
+	at com.library.elibrary.controllers.BookController.issueBook(BookController.java:94)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 14:24:53,255 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41070 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 14:24:53,258 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 14:24:55,558 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 14:24:55,571 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:24:55,572 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 14:24:55,572 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 14:24:55,744 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 14:24:55,745 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2351 ms
+2022-10-21 14:24:56,024 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 14:24:56,251 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 14:24:56,267 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 14:24:56,774 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 14:24:57,142 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 14:24:57,199 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 14:24:57,228 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 14:24:57,249 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.687 seconds (JVM running for 5.306)
+2022-10-21 14:25:12,086 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 14:25:12,087 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 14:25:12,095 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2022-10-21 14:25:12,156 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 14:25:14,540 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 14:25:25,107 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... IssueBook
+2022-10-21 14:25:39,221 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... issueBook
+2022-10-21 14:25:46,157 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Enteriing... addBookPage
+2022-10-21 14:25:49,801 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Enteriing... IssueBook
+2022-10-21 14:26:01,155 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Enteriing... IssueBook
+2022-10-21 14:26:21,568 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-5] Enteriing... issueBook
+2022-10-21 14:26:37,777 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Enteriing... IssueBook
+2022-10-21 14:26:40,212 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Enteriing... addBookPage
+2022-10-21 15:36:21,010 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m24s610ms).
+2022-10-21 16:01:39,219 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m18s215ms).
+2022-10-21 16:13:59,767 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 16:13:59,803 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 16:17:01,852 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41450 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 16:17:01,855 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 16:17:04,188 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 16:17:04,200 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:17:04,201 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 16:17:04,201 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 16:17:04,361 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 16:17:04,362 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2366 ms
+2022-10-21 16:17:04,638 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 16:17:04,873 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 16:17:04,890 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 16:17:05,368 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 16:17:05,766 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 16:17:05,817 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:17:05,846 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 16:17:05,869 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.766 seconds (JVM running for 5.511)
+2022-10-21 16:17:14,998 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 16:17:14,999 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 16:17:15,011 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 12 ms
+2022-10-21 16:17:15,137 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 16:17:18,334 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 16:17:23,338 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... viewIssuedBook
+2022-10-21 16:17:23,428 ERROR org.thymeleaf.TemplateEngine [http-nio-8080-exec-6] [THYMELEAF][http-nio-8080-exec-6] Exception processing template "viewIssueBook.html": Error resolving template [viewIssueBook.html], template might not exist or might not be accessible by any of the configured Template Resolvers
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [viewIssueBook.html], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072)
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366)
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1405)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1149)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 16:17:23,432 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-6] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [viewIssueBook.html], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [viewIssueBook.html], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072)
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:366)
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:190)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1405)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1149)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 16:18:48,421 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 16:18:48,434 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 16:18:56,290 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 41473 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 16:18:56,292 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 16:18:58,598 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 16:18:58,609 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:18:58,610 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 16:18:58,610 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 16:18:58,769 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 16:18:58,771 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2339 ms
+2022-10-21 16:18:59,040 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 16:18:59,272 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 16:18:59,287 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 16:18:59,780 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 16:19:00,146 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 16:19:00,205 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:19:00,227 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 16:19:00,252 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.65 seconds (JVM running for 5.34)
+2022-10-21 16:19:09,297 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 16:19:09,298 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 16:19:09,314 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 16 ms
+2022-10-21 16:19:09,374 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 16:19:11,900 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 16:19:16,044 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Enteriing... viewIssuedBook
+2022-10-21 16:19:27,551 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Enteriing... IssueBook
+2022-10-21 16:19:29,286 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Enteriing... addBookPage
+2022-10-21 16:19:31,597 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Enteriing... addBookPage
+2022-10-21 16:19:33,106 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-10] Enteriing... login
+2022-10-21 16:19:37,653 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 16:19:38,738 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 16:19:39,893 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-3] Enteriing... adminLoginPage
+2022-10-21 16:19:41,392 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-4] Enteriing... librarianLoginPage
+2022-10-21 16:19:42,477 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-5] Enteriing... adminLoginPage
+2022-10-21 16:19:54,773 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-6] Enteriing... adminLogin
+2022-10-21 16:20:13,721 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-1] Enteriing... viewLibrarian
+2022-10-21 16:20:22,883 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-2] Enteriing... editLibrarian
+2022-10-21 16:20:35,012 INFO com.library.elibrary.controllers.LibrarianController [http-nio-8080-exec-3] Enteriing... updateLibrarian
+2022-10-21 16:20:45,129 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-4] Enteriing... login
+2022-10-21 16:20:53,887 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-5] Enteriing... adminLoginPage
+2022-10-21 16:20:56,711 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-6] Enteriing... librarianLoginPage
+2022-10-21 16:20:58,311 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-7] Enteriing... login
+2022-10-21 16:28:35,922 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m6s498ms).
+2022-10-21 16:48:37,166 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 16:48:37,182 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 16:52:45,978 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 43945 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 16:52:45,981 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 16:52:48,391 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 16:52:48,404 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:52:48,405 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 16:52:48,405 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 16:52:48,579 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 16:52:48,580 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2445 ms
+2022-10-21 16:52:48,909 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 16:52:49,150 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 16:52:49,176 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 16:52:49,687 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 16:52:49,732 WARN org.springframework.context.support.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'bookController' method 
+com.library.elibrary.controllers.BookController#returnBook(HttpServletRequest)
+to {POST [/IssueBook]}: There is already 'bookController' bean method
+com.library.elibrary.controllers.BookController#issueBook(HttpServletRequest) mapped.
+2022-10-21 16:52:49,735 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Shutdown initiated...
+2022-10-21 16:52:49,881 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Shutdown completed.
+2022-10-21 16:52:49,885 INFO org.apache.juli.logging.DirectJDKLog [main] Stopping service [Tomcat]
+2022-10-21 16:52:49,912 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [main] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-10-21 16:52:49,936 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'bookController' method 
+com.library.elibrary.controllers.BookController#returnBook(HttpServletRequest)
+to {POST [/IssueBook]}: There is already 'bookController' bean method
+com.library.elibrary.controllers.BookController#issueBook(HttpServletRequest) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.library.elibrary.ElibraryAppApplication.main(ElibraryAppApplication.java:15)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'bookController' method 
+com.library.elibrary.controllers.BookController#returnBook(HttpServletRequest)
+to {POST [/IssueBook]}: There is already 'bookController' bean method
+com.library.elibrary.controllers.BookController#issueBook(HttpServletRequest) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:669)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:635)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:332)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:420)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:76)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:299)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:297)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:266)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:225)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:213)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:205)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 16 common frames omitted
+2022-10-21 16:54:09,917 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 44288 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 16:54:09,920 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 16:54:12,249 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 16:54:12,259 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:54:12,259 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 16:54:12,260 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 16:54:12,429 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 16:54:12,430 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2359 ms
+2022-10-21 16:54:12,744 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 16:54:13,045 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 16:54:13,070 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 16:54:13,628 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 16:54:14,062 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 16:54:14,127 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:54:14,159 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 16:54:14,182 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.992 seconds (JVM running for 5.641)
+2022-10-21 16:54:25,352 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 16:54:25,355 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 16:54:25,367 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 12 ms
+2022-10-21 16:54:25,461 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 16:54:28,943 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 16:54:35,134 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... viewIssuedBook
+2022-10-21 16:54:40,513 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... returnBookForm
+2022-10-21 16:54:45,069 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... viewIssuedBook
+2022-10-21 16:54:56,355 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... returnBookForm
+2022-10-21 16:55:06,590 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... returnBook
+2022-10-21 16:55:06,787 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-10] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=?]; Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]; nested exception is org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]] with root cause
+java.lang.NumberFormatException: For input string: "Ganga"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at org.h2.value.ValueStringBase.getInt(ValueStringBase.java:131)
+	at org.h2.value.Value.convertToInt(Value.java:1575)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertTo(Value.java:1003)
+	at org.h2.value.Value.compareToNotNullable(Value.java:2630)
+	at org.h2.value.Value.compareWithNull(Value.java:2654)
+	at org.h2.engine.SessionLocal.compareWithNull(SessionLocal.java:1966)
+	at org.h2.expression.condition.Comparison.compare(Comparison.java:250)
+	at org.h2.expression.condition.Comparison.getValue(Comparison.java:222)
+	at org.h2.expression.condition.ConditionAndOr.getValue(ConditionAndOr.java:110)
+	at org.h2.expression.Expression.getBooleanValue(Expression.java:332)
+	at org.h2.command.dml.FilteredDataChangeStatement.nextRow(FilteredDataChangeStatement.java:73)
+	at org.h2.command.dml.Update.update(Update.java:73)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:209)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:169)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate.lambda$update$2(JdbcTemplate.java:965)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:651)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:960)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:981)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:328)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:333)
+	at com.library.elibrary.dao.BookDao.returnBook(BookDao.java:127)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$42a8b0bf.returnBook(<generated>)
+	at com.library.elibrary.controllers.BookController.returnBook(BookController.java:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 16:56:47,459 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 16:56:47,472 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2022-10-21 16:58:01,191 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 45224 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 16:58:01,200 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 16:58:03,921 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 16:58:03,933 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:58:03,935 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 16:58:03,935 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 16:58:04,054 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 16:58:04,054 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2717 ms
+2022-10-21 16:58:04,404 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 16:58:04,836 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 16:58:04,870 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 16:58:05,587 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 16:58:05,952 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 16:58:06,002 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 16:58:06,035 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 16:58:06,057 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 5.86 seconds (JVM running for 7.204)
+2022-10-21 16:58:22,839 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 16:58:22,842 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 16:58:22,850 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2022-10-21 16:58:22,897 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 16:58:25,334 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 16:58:31,114 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... viewIssuedBook
+2022-10-21 16:58:38,863 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... returnBookForm
+2022-10-21 16:58:45,762 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... returnBook
+2022-10-21 16:59:49,534 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-8] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=?]; Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]; nested exception is org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]] with root cause
+java.lang.NumberFormatException: For input string: "Ganga"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at org.h2.value.ValueStringBase.getInt(ValueStringBase.java:131)
+	at org.h2.value.Value.convertToInt(Value.java:1575)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertTo(Value.java:1003)
+	at org.h2.value.Value.compareToNotNullable(Value.java:2630)
+	at org.h2.value.Value.compareWithNull(Value.java:2654)
+	at org.h2.engine.SessionLocal.compareWithNull(SessionLocal.java:1966)
+	at org.h2.expression.condition.Comparison.compare(Comparison.java:250)
+	at org.h2.expression.condition.Comparison.getValue(Comparison.java:222)
+	at org.h2.expression.condition.ConditionAndOr.getValue(ConditionAndOr.java:110)
+	at org.h2.expression.Expression.getBooleanValue(Expression.java:332)
+	at org.h2.command.dml.FilteredDataChangeStatement.nextRow(FilteredDataChangeStatement.java:73)
+	at org.h2.command.dml.Update.update(Update.java:73)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:209)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:169)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate.lambda$update$2(JdbcTemplate.java:965)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:651)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:960)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:981)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:328)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:333)
+	at com.library.elibrary.dao.BookDao.returnBook(BookDao.java:127)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$e66465ba.returnBook(<generated>)
+	at com.library.elibrary.controllers.BookController.returnBook(BookController.java:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 17:02:02,512 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... returnBook
+2022-10-21 17:06:47,172 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-10] Servlet.service() for servlet [dispatcherServlet] in context with path [/ELibrary] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=?]; Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]; nested exception is org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Ganga"; SQL statement:
+update E_ISSUEBOOK set returnstatus='yes' where callno=? and studentid=? [22018-214]] with root cause
+java.lang.NumberFormatException: For input string: "Ganga"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at org.h2.value.ValueStringBase.getInt(ValueStringBase.java:131)
+	at org.h2.value.Value.convertToInt(Value.java:1575)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertTo(Value.java:1003)
+	at org.h2.value.Value.compareToNotNullable(Value.java:2630)
+	at org.h2.value.Value.compareWithNull(Value.java:2654)
+	at org.h2.engine.SessionLocal.compareWithNull(SessionLocal.java:1966)
+	at org.h2.expression.condition.Comparison.compare(Comparison.java:250)
+	at org.h2.expression.condition.Comparison.getValue(Comparison.java:222)
+	at org.h2.expression.condition.ConditionAndOr.getValue(ConditionAndOr.java:110)
+	at org.h2.expression.Expression.getBooleanValue(Expression.java:332)
+	at org.h2.command.dml.FilteredDataChangeStatement.nextRow(FilteredDataChangeStatement.java:73)
+	at org.h2.command.dml.Update.update(Update.java:73)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdateInternal(JdbcPreparedStatement.java:209)
+	at org.h2.jdbc.JdbcPreparedStatement.executeUpdate(JdbcPreparedStatement.java:169)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate.lambda$update$2(JdbcTemplate.java:965)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:651)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:960)
+	at org.springframework.jdbc.core.JdbcTemplate.update(JdbcTemplate.java:981)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:328)
+	at org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate.update(NamedParameterJdbcTemplate.java:333)
+	at com.library.elibrary.dao.BookDao.returnBook(BookDao.java:127)
+	at com.library.elibrary.dao.BookDao$$FastClassBySpringCGLIB$$6ba598d5.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
+	at com.library.elibrary.dao.BookDao$$EnhancerBySpringCGLIB$$e66465ba.returnBook(<generated>)
+	at com.library.elibrary.controllers.BookController.returnBook(BookController.java:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1071)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:964)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-10-21 17:07:54,158 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... addBookPage
+2022-10-21 17:08:00,167 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Entering... issueBookForm
+2022-10-21 17:08:29,100 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... issueBook
+2022-10-21 17:08:39,200 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-5] Entering... viewIssuedBook
+2022-10-21 17:08:49,947 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... addBookPage
+2022-10-21 17:08:53,450 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... addBookPage
+2022-10-21 17:10:14,513 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... addBookPage
+2022-10-21 17:10:21,556 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Entering... viewIssuedBook
+2022-10-21 17:10:26,067 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... addBookPage
+2022-10-21 17:10:51,697 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... addBookPage
+2022-10-21 17:10:55,997 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-5] Entering... addBookPage
+2022-10-21 17:11:59,772 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... addBookPage
+2022-10-21 17:12:03,791 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... viewIssuedBook
+2022-10-21 17:12:06,602 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Entering... addBookPage
+2022-10-21 17:12:12,331 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... viewIssuedBook
+2022-10-21 17:12:19,346 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Entering... returnBookForm
+2022-10-21 17:12:26,984 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... returnBook
+2022-10-21 17:12:31,511 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... viewIssuedBook
+2022-10-21 17:12:35,589 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... viewIssuedBook
+2022-10-21 17:12:38,631 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... viewIssuedBook
+2022-10-21 17:12:43,684 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Entering... viewIssuedBook
+2022-10-21 17:12:45,068 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... issueBookForm
+2022-10-21 17:12:50,279 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Entering... viewIssuedBook
+2022-10-21 17:12:51,813 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... addBookPage
+2022-10-21 17:12:58,937 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... returnBookForm
+2022-10-21 17:13:04,082 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-4] Entering... viewIssuedBook
+2022-10-21 17:13:15,282 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... addBookPage
+2022-10-21 17:13:17,373 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... issueBookForm
+2022-10-21 17:13:41,510 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... issueBook
+2022-10-21 17:13:45,665 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... returnBookForm
+2022-10-21 17:13:54,499 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... returnBook
+2022-10-21 17:13:57,227 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... viewIssuedBook
+2022-10-21 17:13:59,045 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... returnBookForm
+2022-10-21 17:14:08,616 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... addBookPage
+2022-10-21 17:14:10,055 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-2] Entering... addBookPage
+2022-10-21 17:42:27,615 INFO org.springframework.boot.StartupInfoLogger [main] Starting ElibraryAppApplication using Java 17.0.2 on Sureshs-MBP.ht.home with PID 53350 (/Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp/bin/main started by sureshbabu in /Users/sureshbabu/Downloads/Apps/ELibrary/Version1/elibraryApp)
+2022-10-21 17:42:27,617 INFO org.springframework.boot.SpringApplication [main] The following 1 profile is active: "testWithH2DB"
+2022-10-21 17:42:30,014 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-10-21 17:42:30,026 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-10-21 17:42:30,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-10-21 17:42:30,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-21 17:42:30,160 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-10-21 17:42:30,161 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2406 ms
+2022-10-21 17:42:30,514 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-10-21 17:42:30,757 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-10-21 17:42:30,777 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Users/sureshbabu/data'
+2022-10-21 17:42:31,276 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-10-21 17:42:31,700 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-21 17:42:31,763 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-10-21 17:42:31,791 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/ELibrary'
+2022-10-21 17:42:31,818 INFO org.springframework.boot.StartupInfoLogger [main] Started ElibraryAppApplication in 4.955 seconds (JVM running for 5.714)
+2022-10-21 17:42:52,748 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 17:42:52,749 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-10-21 17:42:52,758 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 9 ms
+2022-10-21 17:42:52,863 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-1] Enteriing... login
+2022-10-21 17:42:56,071 INFO com.library.elibrary.controllers.LoginController [http-nio-8080-exec-2] Enteriing... login
+2022-10-21 17:43:00,036 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-6] Entering... viewIssuedBook
+2022-10-21 17:43:11,921 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-7] Entering... addBookPage
+2022-10-21 17:43:15,247 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-8] Entering... addBookPage
+2022-10-21 17:43:17,604 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-9] Entering... addBookPage
+2022-10-21 17:43:18,823 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-10] Entering... issueBookForm
+2022-10-21 17:43:21,379 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-1] Entering... returnBookForm
+2022-10-21 17:43:30,641 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-3] Entering... returnBookForm
+2022-10-21 17:43:33,828 INFO com.library.elibrary.controllers.BookController [http-nio-8080-exec-4] Entering... viewIssuedBook
+2022-10-21 17:47:59,256 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2022-10-21 17:47:59,267 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
