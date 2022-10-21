@@ -109,7 +109,7 @@ public class BookDao implements IBookDao {
 				paramMap = new HashMap<>();
 				paramMap.put("callno", bean.getCallno());
 				paramMap.put("issued", getIssued(callno) + 1);
-				status = namedParameterJdbcTemplate.update("update E_BOOK set issued=:issued where callno=:callno",
+				status = namedParameterJdbcTemplate.update("update E_BOOK set issued=:issued, quantity = (quantity-1) where callno=:callno",
 						paramMap);
 			}
 
@@ -130,7 +130,7 @@ public class BookDao implements IBookDao {
 			paramMap = new HashMap<>();
 			paramMap.put("callno", callno);
 			paramMap.put("issued", getIssued(callno) - 1);
-			status = namedParameterJdbcTemplate.update("update E_BOOK set issued=:issued where callno=:callno",
+			status = namedParameterJdbcTemplate.update("update E_BOOK set issued=:issued, quantity = (quantity+1) where callno=:callno",
 					paramMap);
 		}
 		return status;
