@@ -32,7 +32,9 @@ public class LoginController {
 			session.setAttribute("email", email);
 			return new ModelAndView("librarianloginsuccess.html");
 		} else {
-			return new ModelAndView("librarianLoginPage.html");
+			ModelAndView view = new ModelAndView("librarianLoginPage.html");
+			view.addObject("message", "User Name or Password is incorrect");
+			return view;
 		}
 	}
 	
@@ -49,7 +51,7 @@ public class LoginController {
 			LOGGER.info("Admin Login failure");
 			ModelAndView view = new ModelAndView("adminLoginPage.html");
 			view.addObject("message", "User Name or Password is incorrect");
-			return new ModelAndView("adminLoginPage.html");
+			return view;
 		}
 	}
 	
